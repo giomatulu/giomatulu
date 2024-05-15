@@ -1,8 +1,4 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-<img align="right" alt="computer" height="380" src="https://cdn-icons-png.flaticon.com/512/10740/10740609.png">
-<img align="left" alt="book icon" height="100" width="100" src="https://cdn-icons-png.flaticon.com/128/4584/4584394.png">
-
-# ๋࣭ ⭑ Hello World! I'm Gio! *࣭ 
+# ๋࣭ ⭑ Hello World! I'm Gio! *࣭  ![4584394](https://github.com/giomatulu/giomatulu/assets/86377800/38afe855-0534-49c0-98cb-91e8b8a6d543) 
 
 Welcome! I'm Gio, a Cyber Security student, recepcionist and cat mom! Feel free to ask questions about the wonderous world of ***CyberSec***! Even though I'm a beginner, let's learn together! :octocat: 
 
