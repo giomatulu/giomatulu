@@ -1,4 +1,4 @@
-# ๋࣭ ⭑ Hello World! I'm Gio! *࣭  ![4584394](https://github.com/giomatulu/giomatulu/assets/86377800/38afe855-0534-49c0-98cb-91e8b8a6d543) 
+# ๋࣭ ⭑ Hello World! I'm Gio! *࣭   ![4584394 (1)](https://github.com/giomatulu/giomatulu/assets/86377800/055430f5-b7b7-4b29-bfe4-1269f48c8605)
 
 Welcome! I'm Gio, a Cyber Security student, recepcionist and cat mom! Feel free to ask questions about the wonderous world of ***CyberSec***! Even though I'm a beginner, let's learn together! :octocat: 
 
