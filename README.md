@@ -1,5 +1,5 @@
 <img align="right" alt="." height="380" src="https://cdn-icons-png.flaticon.com/512/10740/10740609.png">
-<img align="left" alt="TryHackMe" height="0" src="https://tryhackme-badges.s3.amazonaws.com/grimez.png" >
+<img align="left" alt="TryHackMe" src="https://tryhackme-badges.s3.amazonaws.com/grimez.png" >
 
 # ๋࣭ ⭑ Hello World! I'm Gio! *࣭ 
 
