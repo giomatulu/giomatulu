@@ -6,7 +6,7 @@ Welcome! I'm Gio, a Cyber Security student, recepcionist and cat mom! Feel free 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6753B2&color:FFF)](https://www.linkedin.com/in/giovanamatulu/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=6753B2&color:FFF)](https://www.instagram.com/giomatulu/)
-[![Instagram](https://img.shields.io/badge/-TryHackMe-000?style=for-the-badge&logo=instagram&logoColor=6753B2&color:FFF)](https://tryhackme.com/p/grimez)
+[![tryhackme](https://img.shields.io/badge/-TryHackMe-000?style=for-the-badge&logo=tryhackme&logoColor=6753B2&color:FFF)](https://tryhackme.com/p/grimez)
 
 ### GitHub Status!
 
